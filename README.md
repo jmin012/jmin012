@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm John 👋
 
-<!--
-**jmin012/jmin012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Scientist / Actuary working on ML-driven forecasting and inference for insurance at scale.
 
-Here are some ideas to get you started:
+### What I work on
+- ML pipelines (training → batch inference → monitoring)
+- Forecasting, Risk Modeling, Exeriments
+- AWS (SageMaker, Glue, Step Functions)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Highlighted Projects
+- **ML Cost Allocation Pipeline** – End-to-end batch inference on AWS
+- **Claims Severity Model** – XGBoost + SHAP explainability
+- **Real-Time Inference Demo** – API-based ML deployment
+
+📫 Reach me: LinkedIn | Resume
